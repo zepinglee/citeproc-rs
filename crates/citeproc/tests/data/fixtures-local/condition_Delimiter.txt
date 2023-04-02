@@ -11,8 +11,8 @@ foo. bar. baz
 >>===== CSL =====>>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0">
   <info>
-    <id />
-    <title />
+    <id/>
+    <title/>
     <updated>2023-04-02T17:54:01+08:00</updated>
   </info>
   <citation>
